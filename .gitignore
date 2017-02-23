@@ -1,6 +1,6 @@
-/target
-/dist
-.idea
-*.iml
-/out
-/.slcache/
+**/target
+**/dist
+**/.idea
+**/*.iml
+**/out
+**/.slcache
